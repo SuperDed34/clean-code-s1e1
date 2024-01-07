@@ -37,8 +37,9 @@
 .task__new--wrapper {
   display: flex;
 }
-#incomplete-task, #completed-task {
-  margin: 0;
+#incomplete-tasks,
+#completed-tasks {
+  margin: 0px;
   padding: 0px;
 }
 
